@@ -1,13 +1,12 @@
-# 💫 About Me:
-🔭 I am currently working on VLSI digital design using the SkyWater 130 PDK.<br>🤝 Passionate about the semiconductor industry, I am continually enhancing my skills and knowledge.<br>🌱 I am currently learning advanced VLSI design from Maven Silicon<br>⚡ Always eager to explore new opportunities and challenges in the semiconductor field.
+# Vibham Kumar Dubey's Projects
 
+## Overview
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamvibham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamvibham) 
+Welcome to my GitHub repository! This space is dedicated to showcasing my work in Artificial Intelligence (AI) and Machine Learning (ML). Here, you’ll find a collection of my projects that highlight my expertise in developing and deploying innovative AI solutions. From building chatbots using large language models to creating real-time yoga pose detection systems and implementing edge machine learning on wearable devices, each project demonstrates a practical application of cutting-edge AI and ML technologies.
 
-# 💻 Tech Stack:
-Verilog
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+## About Me
+
+I am Vibham Kumar Dubey, a Machine Learning Engineer with over three years of professional experience in AI and ML. My educational background includes a Master's degree in Biomedical Engineering from the Indian Institute of Technology (IIT) Ropar and a Bachelor's degree in Electronics and Telecommunication Engineering from Pune University. My passion lies in applying advanced AI techniques to solve real-world problems, with a particular focus on natural language processing, computer vision, and edge computing. I am committed to exploring innovative solutions and continuously expanding my knowledge in the rapidly evolving field of AI.
 
 
 
